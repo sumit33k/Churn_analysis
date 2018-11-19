@@ -11,4 +11,4 @@ This involves following steps
 5. Recommendations
 
 
-Please open the pnyb file for the report.
+Please open the pynb file for the report.
