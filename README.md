@@ -7,4 +7,5 @@ This involves following steps
 1. Data Exploration
 2. Feature extraction
 3. Predict if the product will be bought or not
-4. Recommendations
+4. Statistical analysis on the predictions
+5. Recommendations
