@@ -9,3 +9,6 @@ This involves following steps
 3. Predict if the product will be bought or not
 4. Statistical analysis on the predictions
 5. Recommendations
+
+
+Please open the pnyb file for the report.
